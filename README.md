@@ -7,4 +7,5 @@ A repo that will contain material pertaining to my YouTube channel as I create v
 - [ ] Not sure, recommend one! :-)
 
 ## Completed Videos
-- [x] How to replace Git author via command line
+- [x] [How to Change Author on Git Commits on an Entire Repository
+](https://www.youtube.com/watch?v=3LIr70uVZ_Q)
