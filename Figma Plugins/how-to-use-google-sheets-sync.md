@@ -1,4 +1,4 @@
-# How to install and use Content Reel
+# How to use Google Sheets Sync Figma Plugin
 ## Youtube Video
 [![How to use Google Sheets Sync Figma Plugin](http://i3.ytimg.com/vi/CXMKUfzbD7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=CXMKUfzbD7g&t=72s)
 
