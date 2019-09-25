@@ -3,8 +3,12 @@
 ### Part 1 Color & Text Styles with Roller
 [![How to use Roller Design Linter Figma Plugin](http://i3.ytimg.com/vi/hvleNhPqPSY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hvleNhPqPSY&feature=youtu.be)
 
-### Part 2 Border, Shadows, & Radiuses with Roller
-coming soon...
+### Part 2 How to create & lint Shadows
+[![How to use the Roller Figma Plugin - Linting Shadows](http://i3.ytimg.com/vi/7B4t6TaanZE/maxresdefault.jpg)](https://www.youtube.com/watch?v=7B4t6TaanZE&feature=youtu.be)
+
+
+### Part 3 Border, & Radiuses with Roller
+
 
 ## Written Instructions
 First install the plugin here:
