@@ -4,7 +4,7 @@
 A repo that will contain material pertaining to my YouTube channel as I create videos for people to learn and expand upon.
 
 ## Upcoming Video
-- [ ] Not sure, recommend one! :-)
+- [ ] Not sure, recommend one as an issue via github! :-)
 
 ## Completed Videos
 - [x] [How to Change Author on Git Commits on an Entire Repository
